@@ -12,6 +12,10 @@ app.get("/", (req, res) => {
   res.render("homepage");
 });
 
+app.get("/bs4", (req, res) => {
+  res.render("bs4");
+});
+
 app.listen(PORT, () => {
   console.log("Example app listening on port " + PORT);
 });
