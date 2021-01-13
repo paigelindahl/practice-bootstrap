@@ -1,3 +1,6 @@
+body {
+  font-family: "BioRhyme", serif;
+}
 .logo {
   font-size: 45px;
   color: #013340;
@@ -21,4 +24,8 @@
 .nav-text {
   font-size: 20px;
   color: #013340;
+}
+
+hr.light {
+  border-bottom: white 1px solid;
 }
