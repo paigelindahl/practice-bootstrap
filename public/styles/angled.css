@@ -1,0 +1,21 @@
+.container-prac {
+  height: 50px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+}
+.div1 {
+  background: none repeat scroll 0 0 #0000ff;
+  left: -8px;
+}
+.div2 {
+  background: none repeat scroll 0 0 #000000;
+  right: -7px;
+}
+.div {
+  width: 57px;
+  top: -10px;
+  transform: rotate(20deg);
+  position: absolute;
+  height: 72px;
+}

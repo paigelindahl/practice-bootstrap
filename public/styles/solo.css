@@ -1,0 +1,24 @@
+.logo {
+  font-size: 45px;
+  color: #013340;
+}
+
+.main-image {
+  background-image: url("https://github.com/paigelindahl/practice-bootstrap/blob/master/img/dan-cristian-padure-OoVRrZMbDgE-unsplash.jpg?raw=true");
+  background-size: cover;
+  height: 900px;
+  width: 100%;
+}
+
+.btn-container {
+  height: 100%;
+}
+
+.welcome {
+  background-color: #013340;
+}
+
+.nav-text {
+  font-size: 20px;
+  color: #013340;
+}

@@ -20,6 +20,14 @@ app.get("/grid", (req, res) => {
   res.render("grid");
 });
 
+app.get("/solo", (req, res) => {
+  res.render("solo");
+});
+
+app.get("/angled", (req, res) => {
+  res.render("angled");
+})
+
 app.listen(PORT, () => {
   console.log("Example app listening on port " + PORT);
 });
